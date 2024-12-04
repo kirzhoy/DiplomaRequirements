@@ -27,6 +27,6 @@ The functional description is available at the link: [Final Project_Product requ
 * Автоматизировать тестирование Web.
 * Описать процесс тестирования, предоставить статистику выявленных дефектов и краткий отчет с ключевыми результатами проведенной работы.
 
-Полный документ дипломной работы доступен по ссылке [Итоговый проект](https://docs.google.com/document/d/1VTZGEU0WlapeHN5fG91oIjLi_HCc_e5GV1ou1ERoYcs/edit?tab=t.0)
+Полный документ дипломной работы доступен по ссылке: [Итоговый проект](https://docs.google.com/document/d/1VTZGEU0WlapeHN5fG91oIjLi_HCc_e5GV1ou1ERoYcs/edit?tab=t.0)
 
 Описание функционала доступно по ссылке: [Итоговый проект_Продуктовые требования](https://docs.google.com/document/d/1KV2_iA8P2Yb-moAwXiMsyLJQSRsSNntng8fOrAshmC8/edit?usp=sharing)
